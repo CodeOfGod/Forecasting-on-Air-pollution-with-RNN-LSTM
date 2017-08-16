@@ -1,7 +1,7 @@
-#### AIR POLLUTION FORECASTING USING LSTM
+# AIR POLLUTION FORECASTING USING LSTM
 ---
 
-# Steps followed: 
+#### Steps followed: 
 
 - Data preparation 
 - Data visualization
@@ -16,7 +16,9 @@
 
 **Data visualization**
 - Used matplotlib to plot
-![Air pollution dataset]("/images/img1.png") 
+
+![Air pollution dataset](https://raw.githubusercontent.com/sagarmk/Air-pollution-forecasting-with-RNN/master/images/img1.png)
+
 
 **LSTM data preparation**
 - Normalized data 
@@ -29,7 +31,8 @@
 - Define a 50 neuron followed by 1 nueron LSTM 
 - Add dropout at 30%
 - Plot history of training and testing loss
-![Train and Test loss]("/images/img2.png")
+
+![Train and Test loss](https://raw.githubusercontent.com/sagarmk/Air-pollution-forecasting-with-RNN/master/images/img2.png)
 
 **Evaluate model**
 - Make prediction 
