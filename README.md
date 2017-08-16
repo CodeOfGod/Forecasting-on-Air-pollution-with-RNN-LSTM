@@ -3,11 +3,11 @@
 
 #### Steps followed: 
 
-- Data preparation 
-- Data visualization
-- LSTM data preparation
-- Fit model along with regularization term
-- Evaluate model
+1. Data preparation 
+2. Data visualization
+3. LSTM data preparation
+4. Fit model along with regularization term
+5. Evaluate model
 
 **Data preparation:**
 - Replace NA values 
